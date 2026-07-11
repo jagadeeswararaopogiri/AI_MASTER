@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964511824793",
+    "project_id": "ai-stydy-x3tr8r",
+    "storage_bucket": "ai-stydy-x3tr8r.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964511824793:android:0d35d88f95b8d5c0a33108",
+        "android_client_info": {
+          "package_name": "com.mycompany.studyplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDVJm8VWqZ4sMJWZljmaN5ac5COyiJEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
