@@ -155,7 +155,7 @@ GitHub:
 https://github.com/jagadeeswararaopogiri
 
 LinkedIn:
-(Add your LinkedIn profile)
+linkedin.com/in/jagadeeswararao-pogiri
 
 ---
 
